@@ -1,0 +1,14 @@
+                         precision    recall  f1-score   support
+
+Clostridium_perfringens     0.9785    0.8835    0.9286       103
+  Enterococcus_faecalis     0.7760    0.9798    0.8661        99
+   Enterococcus_faecium     0.8925    0.8737    0.8830        95
+       Escherichia_coli     0.7190    0.8878    0.7945        98
+ Listeria_monocytogenes     0.8860    0.9712    0.9266       104
+                Proteus     0.8961    0.6970    0.7841        99
+ Pseudomonas_aeruginosa     0.8247    0.7692    0.7960       104
+  Staphylococcus_aureus     0.9886    0.8208    0.8969       106
+
+               accuracy                         0.8601       808
+              macro avg     0.8702    0.8604    0.8595       808
+           weighted avg     0.8716    0.8601    0.8601       808
