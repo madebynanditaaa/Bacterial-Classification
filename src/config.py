@@ -24,7 +24,7 @@ TRAIN_SPLIT = 0.7
 VAL_SPLIT = 0.15   # test = 1 - train - val
 
 # === Training defaults ===
-DEFAULT_MODEL = "mobilenet_v2"  # choices: mobilenet_v2, efficientnet_b0, resnet50
+DEFAULT_MODEL = "resnet50"  # choices: mobilenet_v2, efficientnet_b0, resnet50
 EPOCHS = 30
 LEARNING_RATE = 1e-4
 SEED = 42
